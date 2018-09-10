@@ -1,0 +1,7 @@
+"LOCATION_A": {
+      "latitude": 10.2070,
+      "longitude": 25.3215,
+      "altitude": 1.2,
+      "status": "CLOSED",
+      "serverAddress": "192.168.0.1"
+ }
